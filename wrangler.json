@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "food-order-db",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "804c8d69-cd52-481d-8dbe-7d576f0a0e16",
+			"database_name": "food_order_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
